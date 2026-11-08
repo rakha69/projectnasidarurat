@@ -1,0 +1,19 @@
+# Temporary / test files
+test.txt
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
